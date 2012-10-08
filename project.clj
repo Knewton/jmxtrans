@@ -1,4 +1,4 @@
-(defproject com.googlecode/jmxtrans "1.0.0-SNAPSHOT"
+(defproject com.googlecode/jmxtrans "1.0.0"
   :min-lein-version "2.0.0"
   :description "JMXTrans (with some additions)"
   :java-source-paths ["src"]
