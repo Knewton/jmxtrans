@@ -57,7 +57,7 @@
           classname-alias
           type-name-values
           key-string]
-         (filter #(not (nil? %)))
+         (filter (comp not nil?))
          (interpose ".")
          (apply str))))
 
