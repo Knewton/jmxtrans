@@ -36,7 +36,7 @@
 
     <root>
         <level value="error"/>
-        <appender-ref ref="asyncAppender"/>
+        <appender-ref ref="STDOUT"/>
     </root>
 
 </log4j:configuration>
